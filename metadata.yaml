@@ -1,0 +1,31 @@
+_repo: Sous-les-marronniers-en-fleurs_71831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bachelin, Henri
+    birthdate: 1879
+    deathdate: 1941
+    gutenberg_agent_id: '56060'
+    url: http://www.gutenberg.org/2009/agents/56060
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henri_Bachelin
+    - https://fr.wikipedia.org/wiki/Henri_Bachelin
+description: ''
+gutenberg_issued: '2023-10-08'
+identifiers:
+  gutenberg: '71831'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015030159407
+pgterms:marc905: 20230624042804bachelin
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bSociété littéraire de France, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sous les marronniers en fleurs
+url: http://www.gutenberg.org/ebooks/71831
